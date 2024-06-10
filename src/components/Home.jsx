@@ -41,22 +41,22 @@ function Home() {
             <ul className="flex space-x-5">
                  <li>
                     <a href="https://www.facebook.com/" target="_blank">
-                 <FaFacebookSquare className="text-2xl cursor-pointer"/>
+                 <FaFacebookSquare className="text-2xl cursor-pointer" color="blue" />
                  </a>
                  </li>
                  <li>
                  <a href="https://telegram.org/" target="_blank">
-                    <FaTelegramPlane className="text-2xl cursor-pointer"/>
+                    <FaTelegramPlane className="text-2xl cursor-pointer" color="#0088cc"/>
                     </a>
                  </li>
                  <li> 
                  <a href="https://www.youtube.com/" target="_blank">
-                    <FaYoutube className="text-2xl cursor-pointer"/>
+                    <FaYoutube className="text-2xl cursor-pointer" color="red"/>
                     </a>
                  </li>
                  <li>
                  <a href="https://in.linkedin.com/" target="_blank">
-                    <FaLinkedin className="text-2xl cursor-pointer"/>
+                    <FaLinkedin className="text-2xl cursor-pointer" color="#0077B5"/>
                     </a>
                  </li>
             </ul>
